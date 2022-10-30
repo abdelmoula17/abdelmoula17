@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm bouchareb abdelmoula</h1>
 <h3 align="center">A passionate FullStack developer from Morocco</h3>
 
-- 🔭 I’m currently working on **E-commerce website with strapi,graphql and nextJs**
-
-- 🌱 I’m currently learning **Strapi Cms**
+- 🔭 I’m currently working at **TrenteNeuf** as ReactJs Developer
 
 - 👨‍💻 All of my projects are available at [https://abdelmoulabouchareb.vercel.app](https://abdelmoulabouchareb.vercel.app)
 
