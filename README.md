@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at **TrenteNeuf** as ReactJs Developer
 
-- 👨‍💻 All of my projects are available at [https://abdelmoulabouchareb.vercel.app](https://abdelmoulabouchareb.vercel.app)
-
 - 💬 Ask me about **ReactJs,NextJs,Php,Laravel**
 
 - 📫 How to reach me **abdelmoulabouchareb12@gmail.com**
