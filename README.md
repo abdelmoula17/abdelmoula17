@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm bouchareb abdelmoula</h1>
 <h3 align="center">A passionate FullStack developer from Morocco</h3>
 
-- 🔭 I’m currently working at **TrenteNeuf** as ReactJs Developer
+- 🔭 I’m currently working at **EveadGroup** as ReactJs Developer
 
 - 💬 Ask me about **ReactJs,NextJs,Php,Laravel**
 
